@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Welcome to shockShock blog!"
 date: 2019-12-15 08:26:28 -0400
 categories: jekyll update
 ---
